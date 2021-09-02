@@ -6,6 +6,10 @@ Alternatively you can use the google colab notebooks below:
 
 [![Open Notebook 1 In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OaYfsLkTOdgQ-BXaYJnmWs2H_twZKXgM?usp=sharing)
 
+
+[![Open Notebook 1 In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lxqXJ4F1augF-ceyeqQKGtOs23xqEG8S?usp=sharing)
+
+
 ## Instructions
 
 Before using the notebooks make sure that your excel files contain all the necessary information like here:
