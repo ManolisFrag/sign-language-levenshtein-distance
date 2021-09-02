@@ -4,10 +4,10 @@ This repository contains two Jupyter notebooks to allow the calculation of Leven
 
 Alternatively you can use the google colab notebooks below:
 
-[![Open Notebook 1 In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OaYfsLkTOdgQ-BXaYJnmWs2H_twZKXgM?usp=sharing)
+All signs: [![Open Notebook 1 In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OaYfsLkTOdgQ-BXaYJnmWs2H_twZKXgM?usp=sharing)
 
 
-[![Open Notebook 1 In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lxqXJ4F1augF-ceyeqQKGtOs23xqEG8S?usp=sharing)
+Only same glosses: [![Open Notebook 1 In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lxqXJ4F1augF-ceyeqQKGtOs23xqEG8S?usp=sharing)
 
 
 ## Instructions
