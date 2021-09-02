@@ -2,6 +2,8 @@
 
 This repository contains two Jupyter notebooks to allow the calculation of Levenshtein distances between two sign language datasets.
 
+[![Open Notebook 1 In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OaYfsLkTOdgQ-BXaYJnmWs2H_twZKXgM?usp=sharing)
+
 ## Instructions
 
 Before using the notebooks make sure that your excel files contain all the necessary information like here:
