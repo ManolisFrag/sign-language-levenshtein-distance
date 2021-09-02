@@ -4,8 +4,12 @@ This repository contains two Jupyter notebooks to allow the calculation of Leven
 
 ## Instructions
 
-Before using the notebooks make sure that your excel files contain all the necessary information.
+Before using the notebooks make sure that your excel files contain all the necessary information like here:
+
 ![Alt text](/pics/initial_file_format.png?raw=true "Title")
+
+There is no limit on how many parameters your files can have but make sure that your annotations are consistent.
+In the scripts you must specify which column contains the glosses and which columns contain the annotations.
 
 ### Prerequisites
 
@@ -22,11 +26,16 @@ glob
 ## Usage
 
 ### Levenshtein distances for all signs
-The notebook "Levenshtein_distances_all_signs.ipynb" will calculate how similar each gloss is in comparison to all the glosses of the second dataset. Its output will be like:
+The notebook "Levenshtein_distances_all_signs.ipynb" will calculate how similar each gloss is in comparison to **all** the glosses of the second dataset. 
+1.0 means that the signs are identical and 0.0 completely different. 
+Its output will be like:
+
 ![Alt text](pics/all_signs_output.png?raw=true "Title")
 
 ### Levenshtein distances for same gloss signs
-The notebook "Levenshtein_distances_only_same_glosses.ipynb" will calculate how similar each gloss is in comparison to only the same glosses of the second dataset. Its output will be like:
+The notebook "Levenshtein_distances_only_same_glosses.ipynb" will calculate how similar each gloss is in comparison to **only the same glosses** of the second dataset. 
+Its output will be like:
+
 ![Alt text](pics/same_glosses_output.png?raw=true "Title")
 
 ## Contributing
